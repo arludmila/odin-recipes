@@ -17,20 +17,21 @@ img{
     display: block;
 }
 .recipelk,.re{
-    text-align: center;
     font-size: 25px;
     color: hotpink;
-    display: block;
 }
+
+
+
 .description{
     text-align: center;
     font-size: 20px;
     color: rgb(147, 11, 245);
 }
-.ingredients,.i,.description,.recipelk,.steps,{
+.ingredients,.i,.description,.recipelk,.steps,.listintro{
     font-family: Arial, Helvetica, sans-serif;
 }
-.ingredients,.steps{
+.ingredients,.steps,.listintro{
     font-size: 25px;
     color: rgb(243, 0, 122);
 }
