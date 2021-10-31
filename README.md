@@ -1,4 +1,5 @@
 # odin-recipes
+# the-odin-project
 # recipes for:
 # mashed potatoes
 # classic waffles
